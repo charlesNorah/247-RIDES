@@ -1,0 +1,36 @@
+.nav-link{
+    color: black;
+}
+ul label{
+    color: black;
+    margin-right: 55%;
+    font-size: 30px;
+    font-weight: bolder;
+}
+b{
+    color: red;
+}
+.nav-link:hover{
+    color:red;
+    background-color:gray;
+}
+.cars{
+    background-image: url(../images/uber\ 1.jpg);
+    height: 650px;
+   
+}
+h1{
+    font-size: 200px;
+    text-align: center;
+    margin-top: 2%;
+    font-weight: bolder;
+    color: black;
+}
+.joy{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.joy b{
+    color: darkorange;
+}
